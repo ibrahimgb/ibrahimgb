@@ -28,8 +28,7 @@
 - 👯 I’m looking to collaborate on spring projects
 - 🤔 I’m looking for help with nothing rn
 - 💬 Ask me about anything related to js
-- 😄 Pronouns: Ibrahim
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: When I'm discussing technology, I tend to lose track of time and become completely absorbed in the conversation.
 
 <p align="center">
   <i> 📫 How to reach me : </i>
@@ -39,7 +38,7 @@
   <a href="https://www.linkedin.com/in/ibrahimgb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
-  <a href="mailto:ibrahim.guoual.b@gmail.com@gmail.com" target="_blank">
+  <a href="mailto:ibrahim.guoual.b@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
  
@@ -51,7 +50,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div>
+<div align="center">
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibrahimgb&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgb&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
