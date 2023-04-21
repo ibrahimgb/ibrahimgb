@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Ibrahim</h1>
-<h3 align="center">A Full Stack Engineer and a computer scientist from Algeria</h3>
+<h3 align="center">A Full Stack Engineer and a Computer Scientist from Algeria</h3>
 
 <p align="center">Hi there! Welcome to my GitHub profile. Here you'll find some of the projects I've been working on. I'm always looking to learn new things and collaborate with other developers, so don't hesitate to reach out to me!</p>
 
