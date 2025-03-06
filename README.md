@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
  
-  <a href="https://twitter.com/ibrahimgb/" target="_blank">
+  <a href="https://twitter.com/ibrahimgb22/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
 </p>
