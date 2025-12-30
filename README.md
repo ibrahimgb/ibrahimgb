@@ -19,7 +19,6 @@ I'm particularly motivated by **AI platforms, developer tooling, and distributed
 - 🚀 Interested in backend, infrastructure, and AI-powered systems  
 - 🌱 Always learning and improving through projects and experimentation  
 
----
 
 **Technical stack & exposure:**
 
@@ -28,7 +27,6 @@ I'm particularly motivated by **AI platforms, developer tooling, and distributed
 - **Data:** PostgreSQL, MySQL, data processing pipelines  
 - **Infrastructure:** Docker, Linux, CI/CD , proxmox   
 
----
 
 **What am I pushing myself toward:**
 
