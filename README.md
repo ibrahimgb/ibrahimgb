@@ -1,4 +1,4 @@
-### Hello, I'm Ibrahim Guoual Belhamidi 👋
+### Hello, I'm Ibrahim 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimgb/)
 [![Email Badge](https://img.shields.io/badge/-Email-555555?style=flat-square&logo=Gmail&logoColor=white)](mailto:ibrahim.guoual.b@gmail.com)
